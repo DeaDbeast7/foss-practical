@@ -1,3 +1,5 @@
 # foss-practical
-foss is an open source software 
-foss does not means 'free' of cost
+foss is a free and open source software 
+foss does not means 'free' of cost it means 'freedom'
+user can copy,edit,share, use the source code.
+
